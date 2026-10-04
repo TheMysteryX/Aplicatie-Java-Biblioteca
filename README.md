@@ -1,9 +1,6 @@
-# 📚 Biblioteca
+# Biblioteca
 
 Aplicație desktop în **Java (Swing)** pentru gestionarea unei colecții de cărți dintr-o bibliotecă. După autentificare, utilizatorul poate vizualiza lista cărților, le poate căuta după mai multe criterii, poate consulta detaliile fiecărei cărți (inclusiv coperta) și poate împrumuta sau returna cărți.
-
-![Java](https://img.shields.io/badge/Java-8%2B-orange)
-![GUI](https://img.shields.io/badge/GUI-Swing-blue)
 
 ## Cuprins
 
@@ -18,14 +15,14 @@ Aplicație desktop în **Java (Swing)** pentru gestionarea unei colecții de că
 
 ## Funcționalități
 
-- 🔐 **Autentificare** cu nume de utilizator și parolă
-- 📖 **Listă de cărți** cu indicarea stării (cărțile împrumutate apar marcate cu `(Imprumutata)`)
-- 🔎 **Căutare** după titlu, autor, an sau editură (căutarea nu ține cont de majuscule/minuscule)
-- 🖼️ **Detalii carte**: titlu, autor, an, editură, preț (RON), stare, rezumat și imaginea copertei
-- 🔁 **Împrumut și returnare** de cărți, cu mesaje de eroare pentru acțiuni invalide
-- ⌨️ **Scurtături de tastatură**: `CTRL + I` (împrumută) și `CTRL + R` (returnează)
-- ❓ **Meniu Ajutor** cu secțiunile *Despre*, *Tutorial* și *Scurtături*
-- 🎨 **Temă întunecată** personalizată (paleta de culori Catppuccin Mocha) și stil nativ al sistemului de operare pentru restul componentelor
+- **Autentificare** cu nume de utilizator și parolă
+- **Listă de cărți** cu indicarea stării (cărțile împrumutate apar marcate cu `(Imprumutata)`)
+-  **Căutare** după titlu, autor, an sau editură (căutarea nu ține cont de majuscule/minuscule)
+- **Detalii carte**: titlu, autor, an, editură, preț (RON), stare, rezumat și imaginea copertei
+- **Împrumut și returnare** de cărți, cu mesaje de eroare pentru acțiuni invalide
+- **Scurtături de tastatură**: `CTRL + I` (împrumută) și `CTRL + R` (returnează)
+- **Meniu Ajutor** cu secțiunile *Despre*, *Tutorial* și *Scurtături*
+- **Temă întunecată** personalizată și stil nativ al sistemului de operare pentru restul componentelor
 
 ## Capturi de ecran
 
