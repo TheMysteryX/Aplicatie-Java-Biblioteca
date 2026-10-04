@@ -26,11 +26,12 @@ Aplicație desktop în **Java (Swing)** pentru gestionarea unei colecții de că
 
 ## Capturi de ecran
 
-> Adaugă aici capturi de ecran ale aplicației (ex. în folderul `docs/`).
->
 > ```md
-> ![Fereastra de autentificare](docs/login.png)
-> ![Fereastra principală](docs/main.png)
+> <img width="386" height="143" alt="Screenshot 2026-10-04 170953" src="https://github.com/user-attachments/assets/a64966e1-7c9d-4f88-9455-14db9d6e622d" />
+> <img width="1184" height="788" alt="Screenshot 2026-10-04 171047" src="https://github.com/user-attachments/assets/1abaef89-e0bc-406d-ab7b-86c7f863f823" />
+> <img width="487" height="116" alt="Screenshot 2026-10-04 171118" src="https://github.com/user-attachments/assets/5e4a014e-233f-4aed-a23d-394bd86cad25" />
+> <img width="1262" height="303" alt="Screenshot 2026-10-04 171331" src="https://github.com/user-attachments/assets/4a1e3d08-bccb-4d79-8d61-d046558e5af3" />
+> <img width="1178" height="759" alt="image" src="https://github.com/user-attachments/assets/aca9076a-2af1-47c3-b7c8-bf724ef118a5" />
 > ```
 
 ## Cerințe
